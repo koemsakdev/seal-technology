@@ -1,0 +1,140 @@
+{
+    "flash_deals": [
+        {
+            "id": 1,
+            "name": "UltraBook Pro 15\"",
+            "desc": "Intel i7, 16GB RAM, 512GB SSD",
+            "price": 1199.99,
+            "discount": 20,
+            "rate": 4.5,
+            "image": "assets/02 laptop.png"
+        },
+        {
+            "id": 2,
+            "name": "Galaxy S23 Ultra",
+            "desc": "256GB, 12GB RAM, 108MP Camera",
+            "price": 1079.99,
+            "discount": 15,
+            "rate": 4.0,
+            "image": "assets/06 smartphone.png"
+        },
+        {
+            "id": 3,
+            "name": "Power Gaming PC",
+            "desc": "RTX 4080, i9, 32GB RAM, 2TB SSD",
+            "price": 2399.99,
+            "discount": 25,
+            "rate": 4.8,
+            "image": "assets/05 power.png"
+        },
+        {
+            "id": 4,
+            "name": "Premium Wireless Headphones",
+            "desc": "Noise Cancelling, 30h Battery Life",
+            "price": 299.99,
+            "discount": 30,
+            "rate": 4.7,
+            "image": "assets/07 earpod.png"
+        }
+    ],
+    "shop_by_category": [
+        {
+            "id": 1,
+            "name": "Laptops",
+            "image": "assets/labtopdell.png"
+        },
+        {
+            "id": 2,
+            "name": "Smartphones",
+            "image": "assets/09 smartphone.png"
+        },
+        {
+            "id": 3,
+            "name": "Computer Parts",
+            "image": "assets/11 computer part.png"
+        },
+        {
+            "id": 4,
+            "name": "Accessories",
+            "image": "assets/10 accessories.png"
+        },
+        {
+            "id": 5,
+            "name": "Powers up Gaming",
+            "image": "assets/05 power.png"
+        },
+        {
+            "id": 6,
+            "name": "Assus Monitors",
+            "image": "assets/01 monitor.png"
+        }
+    ],
+    "new_arrival": [
+        {
+            "id": 1,
+            "name": "Pro Tablet 12.9",
+            "desc": "M2 Chip, 256GB, Wi-Fi + Cellular",
+            "price": 799.99,
+            "rate": 4,
+            "badge": "New",
+            "badge_color": "info",
+            "image": "assets/04 tablet.png"
+        },
+        {
+            "id": 2,
+            "name": "Ultra Gaming Monitor 32\"",
+            "desc": "4K, 144Hz, 1ms, HDR",
+            "price": 499.99,
+            "rate": 4.6,
+            "badge": "Gaming",
+            "badge_color": "success",
+            "image": "assets/01 monitor.png"
+        },
+        {
+            "id": 3,
+            "name": "Advanced Smartwatch",
+            "desc": "GPS, 5 Days Battery, ECG",
+            "price": 299.99,
+            "rate": 4,
+            "badge": "Wearable",
+            "badge_color": "secondary",
+            "image": "assets/08 watch.png"
+        },
+        {
+            "id": 4,
+            "name": "Pro Wireless Earbuds",
+            "desc": "ANC, 8h Battery, Water Resistant",
+            "price": 149.99,
+            "rate": 4.7,
+            "badge": "Earphones",
+            "badge_color": "primary",
+            "image": "assets/03 headphone.png"
+        }
+    ],
+    "top_brands": [
+        {
+            "id": 1,
+            "image": "assets/adapterp.png"
+        },
+        {
+            "id": 2,
+            "image": "assets/adapterpc.png"
+        },
+        {
+            "id": 3,
+            "image": "assets/adapterpca.png"
+        },
+        {
+            "id": 4,
+            "image": "assets/powerbankwireless.png"
+        },
+        {
+            "id": 5,
+            "image": "assets/laptopacer.png"
+        },
+        {
+            "id": 6,
+            "image": "assets/labtopacer2.png"
+        }
+    ]
+}

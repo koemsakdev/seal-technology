@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Kantumruy+Pro:ital,wght@0,100..700;1,100..700&display=swap');
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: "Kantumruy Pro", sans-serif;
+}
+
+.banner {
+    background: linear-gradient(130deg,rgba(0, 136, 255, 1) 0%, rgb(0, 122, 71) 100%);
+}
