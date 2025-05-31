@@ -7,7 +7,9 @@
             "price": 1199.99,
             "discount": 20,
             "rate": 4.5,
-            "image": "assets/02 laptop.png"
+            "image": "assets/02 laptop.png",
+            "badge": "Best Seller",
+            "badge_color": "info"
         },
         {
             "id": 2,
@@ -16,7 +18,9 @@
             "price": 1079.99,
             "discount": 15,
             "rate": 4.0,
-            "image": "assets/06 smartphone.png"
+            "image": "assets/06 smartphone.png",
+            "badge": "New",
+            "badge_color": "secondary"
         },
         {
             "id": 3,
@@ -25,7 +29,9 @@
             "price": 2399.99,
             "discount": 25,
             "rate": 4.8,
-            "image": "assets/05 power.png"
+            "image": "assets/05 power.png",
+            "badge": "Gaming",
+            "badge_color": "success"
         },
         {
             "id": 4,
@@ -34,7 +40,9 @@
             "price": 299.99,
             "discount": 30,
             "rate": 4.7,
-            "image": "assets/07 earpod.png"
+            "image": "assets/07 earpod.png",
+            "badge": "Audio",
+            "badge_color": "primary"
         }
     ],
     "shop_by_category": [
@@ -134,7 +142,7 @@
         },
         {
             "id": 6,
-            "image": "assets/labtopacer2.png"
+            "image": "assets/laptopacer2.png"
         }
     ]
 }

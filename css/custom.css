@@ -9,3 +9,32 @@ body {
 .banner {
     background: linear-gradient(130deg,rgba(0, 136, 255, 1) 0%, rgb(0, 122, 71) 100%);
 }
+
+.start-75 {
+    left: 75%;
+}
+.end-25 {
+    right: 25%;
+}
+.end-3 {
+    right: 3%;
+}
+.top-25 {
+    top: 25%;
+}
+.top-5 {
+    top: 5%;
+}
+.top-3 {
+    top: 3%;
+}
+
+.w-5 {
+    width: 5%;
+}
+.w-10 {
+    width: 10%;
+}
+.w-15 {
+    width: 15%;
+}
